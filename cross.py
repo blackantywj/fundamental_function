@@ -28,5 +28,4 @@ v2 = F.cross_entropy(x, y, reduction="none")
 print(f"v2: {v2}")
 
 '''
-
 '''
