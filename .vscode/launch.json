@@ -10,7 +10,8 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "justMyCode": true
+            "justMyCode": true,
+            "python":"E:\\ProgramData\\anaconda3\\envs\\d2l\\python.exe"
         }
     ]
 }
