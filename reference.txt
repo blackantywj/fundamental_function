@@ -1,0 +1,23 @@
+Dixon, S.J., et al., Pharmacological inhibition of cystine–glutamate exchange induces endoplasmic reticulum stress and ferroptosis. eLife, 2014. 3.
+
+Yu, L., et al., Dysregulation of iron homeostasis by TfR-1 renders EZH2 wild type diffuse large  B-cell lymphoma resistance to EZH2 inhibition. Acta Pharmacol Sin, 2023. 44(10): p. 2113-2124.
+
+Zhang, Y., et al., Imidazole Ketone Erastin Induces Ferroptosis and Slows Tumor Growth in a Mouse Lymphoma Model. Cell Chemical Biology, 2019. 26(5): p. 623-633.e9.
+
+Hong, Y., et al., APR-246 triggers ferritinophagy and ferroptosis of diffuse large B-cell lymphoma  cells with distinct TP53 mutations. Leukemia, 2022. 36(9): p. 2269-2280.
+
+Cai, Y., et al., alpha-KG inhibits tumor growth of diffuse large B-cell lymphoma by inducing ROS and  TP53-mediated ferroptosis. Cell Death Discov, 2023. 9(1): p. 182.
+
+Schmitt, A., et al., Dimethyl fumarate induces ferroptosis and impairs NF-kappaB/STAT3 signaling in DLBCL. Blood, 2021. 138(10): p. 871-884.
+
+Schmitt, A., et al., BRD4 inhibition sensitizes diffuse large B-cell lymphoma cells to ferroptosis. Blood, 2023. 142(13): p. 1143-1155.
+
+Devin, J., et al., Targeting Cellular Iron Homeostasis with Ironomycin in Diffuse Large B-cell  Lymphoma. Cancer Res, 2022. 82(6): p. 998-1012.
+
+Wang, S., et al., Co-Targeting of BTK and TrxR as a Therapeutic Approach to the Treatment of  Lymphoma. Antioxidants (Basel), 2023. 12(2).
+
+Setiawan, S.A., et al., Synergistic disruption of BTK and BCL-2 causes apoptosis while inducing  ferroptosis in double-hit lymphoma. Eur J Pharmacol, 2023. 943: p. 175526.
+
+Liu, X., et al., Antitumor Effects of Poplar Propolis on DLBCL SU-DHL-2 Cells. Foods, 2023. 12(2).
+
+Song, X., et al., PAQR3 facilitates the ferroptosis of diffuse large B-cell lymphoma via the  regulation of LDLR-mediated PI3K/AKT pathway. Hematol Oncol, 2023.
