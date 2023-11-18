@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 def GetInfo(final_list):
     referencelist=[]
-    authorlist,yearlist,titlelist,journallist=[],[],[],[]
+    authorlist, yearlist, titlelist, journallist=[],[],[],[]
     doilist=[]
     for f in final_list:
         # 全文
